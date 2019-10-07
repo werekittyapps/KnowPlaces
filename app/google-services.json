@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614450455887",
+    "firebase_url": "https://know-places.firebaseio.com",
+    "project_id": "know-places",
+    "storage_bucket": "know-places.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614450455887:android:fcad4d3480be47a559113a",
+        "android_client_info": {
+          "package_name": "ru.werekitty.knowplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614450455887-s942qjq15i93qvatgm956k6emgvqdlvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.werekitty.knowplaces",
+            "certificate_hash": "adc1dd0fb861d4542f5631c1669b93c758ed268e"
+          }
+        },
+        {
+          "client_id": "614450455887-0p8vvsnv1bcnpofepvlcq7luacjno8jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACNcp0Xl9isqarHPW4Iet8GFKOUy1_wEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614450455887-0p8vvsnv1bcnpofepvlcq7luacjno8jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
